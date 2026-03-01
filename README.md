@@ -27,3 +27,5 @@ Clone the repository:
 git clone https://github.com/leojinade-art/prisoners-dilemma-simulation.git
 
 cd prisoners-dilemma-simulation
+
+python main.py
